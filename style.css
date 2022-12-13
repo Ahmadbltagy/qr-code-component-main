@@ -17,7 +17,7 @@ figure {
   display: flex;
   flex-direction: column;
   align-items: center;
-  max-width: 300px;
+  max-width: 320px;
   background-color: #fff;
   border-radius: 10px;
   padding: 10px 5px;
@@ -29,14 +29,14 @@ figure {
   align-items: center;
   justify-content: center;
   text-align: center;
-  margin: 0 13px;
+  margin: 0 13px 10px;
 }
 h1 {
-  font-size: 18px;
+  font-size: 24px;
   letter-spacing: -0.8px;
   line-height: 1.1;
   color: hsl(218, 44%, 22%);
-  margin-bottom: 10px;
+  margin-bottom: 14px;
 }
 .img-qr {
   display: inline-block;
@@ -47,5 +47,5 @@ h1 {
 p {
   font-size: 13px;
   color: hsl(220, 15%, 55%);
-  margin-bottom: 12px;
+  margin-bottom: 14px;
 }
